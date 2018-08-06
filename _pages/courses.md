@@ -60,4 +60,11 @@ Massive Online Open Courses
   * Machine Learning : Classification. [See certificate](https://www.coursera.org/account/accomplishments/certificate/ZGXNEMK578TG)
   * Machine Learning : Clustering & Retrieval. [See certificate](https://www.coursera.org/account/accomplishments/certificate/QKMVBHDVZ5B9)
 
+* Deep Learning Specialization. [See certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UAU2HQLRJDWT)
+  * Neural Networks and Deep Learning. [See certificate](https://www.coursera.org/account/accomplishments/verify/TGPVEQJKJVGF)
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization. [See certificate](https://www.coursera.org/account/accomplishments/verify/3XN4D87N8XDN)
+  * Structuring Machine Learning Projects. [See certificate](https://www.coursera.org/account/accomplishments/verify/8D33CYPTJAXN)
+  * Convolutional Neural Networks. [See certificate](https://www.coursera.org/account/accomplishments/verify/6LVUJRKBAU9U)
+  * Sequence Models. [See certificate](https://www.coursera.org/account/accomplishments/verify/MRSFG9SAE7L6)
+
   
