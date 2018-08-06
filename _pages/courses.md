@@ -54,10 +54,10 @@ Coursework as part of undergraduate and graduate studies
 
 Massive Online Open Courses
 ======
-* Machine Learning Specialization ([See certificate])(https://www.coursera.org/account/accomplishments/specialization/certificate/KF2PPB69JZF3)
-  * Machine Learning foundations: A case study ([See certificate])(https://www.coursera.org/account/accomplishments/certificate/7GYJ74PBF4ZE)
-  * Machine Learning : Regression ([See certificate])(https://www.coursera.org/account/accomplishments/verify/BLFMNA38RRSN)
-  * Machine Learning : Classification ([See certificate])(https://www.coursera.org/account/accomplishments/certificate/ZGXNEMK578TG)
-  * Machine Learning : Clustering & Retrieval ([See certificate])(https://www.coursera.org/account/accomplishments/certificate/QKMVBHDVZ5B9)
+* Machine Learning Specialization. [See certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KF2PPB69JZF3)
+  * Machine Learning foundations: A case study. [See certificate](https://www.coursera.org/account/accomplishments/certificate/7GYJ74PBF4ZE)
+  * Machine Learning : Regression. [See certificate](https://www.coursera.org/account/accomplishments/verify/BLFMNA38RRSN)
+  * Machine Learning : Classification. [See certificate](https://www.coursera.org/account/accomplishments/certificate/ZGXNEMK578TG)
+  * Machine Learning : Clustering & Retrieval. [See certificate](https://www.coursera.org/account/accomplishments/certificate/QKMVBHDVZ5B9)
 
   
