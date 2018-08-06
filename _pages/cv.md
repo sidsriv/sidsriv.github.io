@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+See full CV [here]()
+
 Education
 ======
 * B.Tech, Information Technology, ABV-IIITM Gwalior 2014-2017 CPI : 8.3/10.0
