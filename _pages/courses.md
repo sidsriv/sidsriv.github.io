@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Courses and MOOC's"
+title: "CV"
 permalink: /courses_mooc-s/
+author_profile: true
 ---
 
 
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
