@@ -50,3 +50,14 @@ Coursework as part of undergraduate and graduate studies
   * Wireless Communication Technologies (IT3201)
   * Artificial Intelligence (IT3202)
   * Information systems security (IT3203)
+  
+
+Massive Online Open Courses
+======
+* Machine Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KF2PPB69JZF3)
+  * Machine Learning foundations: A case study [certificate](https://www.coursera.org/account/accomplishments/certificate/7GYJ74PBF4ZE)
+  * Machine Learning : Regression [certificate](https://www.coursera.org/account/accomplishments/verify/BLFMNA38RRSN)
+  * Machine Learning : Classification [certificate](https://www.coursera.org/account/accomplishments/certificate/ZGXNEMK578TG)
+  * Machine Learning : Clustering & Retrieval [certificate](https://www.coursera.org/account/accomplishments/certificate/QKMVBHDVZ5B9)
+
+  
