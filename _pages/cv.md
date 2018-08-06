@@ -66,9 +66,9 @@ Academic Achievements
 
 Test Scores
 ======
-* All India Senior Secondary Certificate Programme, 472 marks out of 500, 98.8 %ile of all test taker
-* Graduate Aptitude Test for Engineer, All India Rank 2509/109783, 97.72 %ile of all test takers
-* Graduate Record Examination, Quantitaive : 165/170, Verbal : 153/170
+* All India Senior Secondary Certificate Programme, 472 marks out of 500, 98.8 %ile of all test takers.
+* Graduate Aptitude Test for Engineer, All India Rank : 2509, 97.72 %ile of all test takers.
+* Graduate Record Examination, Quantitaive : 165/170, Verbal : 153/170.
 
 Languages
 ======
