@@ -64,6 +64,18 @@ Academic Achievements
 ======
 * A.I.S.S.C.E 2014 Topper, Cathedral Sen. Sec. School : Secured 99% marks in Chemistry, A.I.S.S.C.E 2014
 
+Test Scores
+======
+* All India Senior Secondary Certificate Programme, 472 marks out of 500, 98.8 %ile of all test taker
+* Graduate Aptitude Test for Engineer, All India Rank 2509/109783, 97.72 %ile of all test takers
+* Graduate Record Examination, Quantitaive : 165/170, Verbal : 153/170
+
+Languages
+======
+* Hindi : Native Language
+* English : Proffesional working proficiency
+* German : Limited Working proficiency
+
 Positions of Responsibility
 ======
 * Event Organiser, Otaku (Manga Trivia), Infotsav 2016
