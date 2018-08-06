@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See full CV [here]()
+See full CV [here](curriculum-vitae.pdf)
 
 Education
 ======
