@@ -11,49 +11,71 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech, Information Technology, ABV-IIITM Gwalior 2014-2017 CPI : 8.3/10.0
+* M.Tech, Information Technology, ABV-IIITM Gwalior 2017-present CPI : 8.2/10.0
 
-Work experience
+Research Interest
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Machine Learning and Data Science : Machine Learning, Statistics, Artificial Intelligence, Natural Language Processing,
+Deep Learning, Nature Inspired Algorithms.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Bioinformatics : Structural Biology, Genomic Data Analysis, Mathematical modelling of Biological Systems.
+
+Research experience
+======
+* Summer 2018: Summer Research Intern
+  * Indian Institute of Technology, Guwahati
+  * Project Title: Mining fine grain relations from Wikipedia Infoboxes, Self attention based Bi-LSTM model for named entity recognition in Biomedical and Clinical data
+  * Supervisor: Dr. Ashish Anand
+
+* Summer 2016: Summer Research Intern
+  * Institute of Bioinformatics and Applied Biotechnology
+  * Project Title: Construction and analysis of protein-protein 
+interaction network in Leishmania major 
+  * Supervisor: Dr. Shubhada Hegde
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Numpy
+  * Scipy
+  * Pandas
+  * Sci-kit learn
+  * Matplotlib/seaborn
+  * Tensorflow
+  * Keras
+* C/C++
+* MySQL
+* MATLAB
+* R
+* julia
+* Shell
+* linux
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+ 
+Academic Achievements
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* A.I.S.S.C.E 2014 Topper, Cathedral Sen. Sec. School : Secured 99% marks in Chemistry, A.I.S.S.C.E 2014
+
+Positions of Responsibility
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Event Organiser, Otaku (Manga Trivia), Infotsav 2016
+
+Extra-curricular
 ======
-* Currently signed in to 43 different slack teams
+* Active Member of Coursera’s Beta Tester Community, my task is to review upcoming courses
+before making it available to students world wide.
+* Active Member of Coursera’s Data Science Community, a network of data science professionals
+and enthusiasts where we discuss and keep up to date with latest news, trends and technologies
+in data science.
+
+Recommendations
+======
+* Prof. Anupam Shukla, Professor, ABV-IIITM Gwalior, anupamshukla@iiitm.ac.in
+* Dr. Ritu Tiwari, Assoc. Professor, ABV-IIITM Gwalior, ritutiwari@iiitm.ac.in
+* Dr. Ashish Anand, Assoc. Professor, IIT Guwahati, ashish.anand@iitg.ernet.in
