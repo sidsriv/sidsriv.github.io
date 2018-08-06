@@ -67,4 +67,20 @@ Massive Online Open Courses
   * Convolutional Neural Networks. [See certificate](https://www.coursera.org/account/accomplishments/verify/6LVUJRKBAU9U)
   * Sequence Models. [See certificate](https://www.coursera.org/account/accomplishments/verify/MRSFG9SAE7L6)
 
-  
+* Advance Machine Learning Specialization. 
+  * Introduction to Deep Learning. [See certificate](https://www.coursera.org/account/accomplishments/certificate/VZJVCAV23B9C)
+  * Bayesian methods for Machine Learning. [See certificate](https://www.coursera.org/account/accomplishments/certificate/SEHYZJ29Z3JZ)
+  * Practical Reinforcement Learning. [See certificate](https://www.coursera.org/account/accomplishments/certificate/QBTKY5DPRYBW)
+
+* Data Science Specialization. [See certificate](https://www.coursera.org/account/accomplishments/specialization/ZHU4E6SXGDED)
+  * Data Scientist's Toolbox. [See certificate]https://www.coursera.org/account/accomplishments/verify/ESFV8AWUD6)
+  * R Programming. [See certificate](https://www.coursera.org/account/accomplishments/verify/JSUY4BTY87)
+  * Getting and Cleaning data. [See certificate](https://www.coursera.org/account/accomplishments/verify/AXZD3JQPRV)
+  * Exploratory data analysis. [See certificate](https://www.coursera.org/account/accomplishments/verify/9UWWJ6WGRE72)
+  * Reproducible research. [See certificate](https://www.coursera.org/account/accomplishments/verify/MSYTKGW56YJ5)
+  * Statistical Inference. [See certificate](https://www.coursera.org/account/accomplishments/verify/NX8B7JQZULM6)
+  * Regression Analysis. [See certificate](https://www.coursera.org/account/accomplishments/verify/FECBA2F5S8ZH)
+  * Practical Machine Learning. [See certificate](https://www.coursera.org/account/accomplishments/verify/5USCRKEBRFSA)
+  * Developing Data Products. [See certificate](https://www.coursera.org/account/accomplishments/verify/Y9KHJBAXQQ39)
+  * Data Science Capstone. [See certificate](https://www.coursera.org/account/accomplishments/verify/JHT8N4GAY6KF)
+
