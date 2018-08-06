@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See full CV [here](https://github.com/sidsriv/sidsriv.github.io/pages/curriculum-vitae.pdf)
+See full CV [here](https://github.com/sidsriv/sidsriv.github.io/_pages/curriculum-vitae.pdf)
 
 Education
 ======
