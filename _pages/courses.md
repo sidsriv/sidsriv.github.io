@@ -84,3 +84,12 @@ Massive Online Open Courses
   * Developing Data Products. [See certificate](https://www.coursera.org/account/accomplishments/verify/Y9KHJBAXQQ39)
   * Data Science Capstone. [See certificate](https://www.coursera.org/account/accomplishments/verify/JHT8N4GAY6KF)
 
+* Genomic Data Science Specialization. [See certificate](https://www.coursera.org/account/accomplishments/specialization/KAZUEWXLRNWG)
+  * Introduction to Genomic Technologies. [See certificate](https://www.coursera.org/account/accomplishments/verify/WYU9HN4RU5B7)
+  * Genomic Data Science with Galaxy. [See certificate](https://www.coursera.org/account/accomplishments/verify/BGR929KPUXVH)
+  * Python for Genomic Data Science. [See certificate](https://www.coursera.org/account/accomplishments/certificate/JD7K2CQDBB4F)
+  * Algorithms for DNA Sequencing. [See certificate](https://www.coursera.org/account/accomplishments/certificate/KWGQXBMLBKSR)
+  * Command Line Tools for Genomic Data Science. [See certificate](https://www.coursera.org/account/accomplishments/certificate/5WQFBV3YYSU6)
+  * Bioconductor for Genomic Data Science. [See certificate](https://www.coursera.org/account/accomplishments/certificate/6Q53DGQS8LAN)
+  * Statistics for Genomic Data Sciences. [See certificate](https://www.coursera.org/account/accomplishments/certificate/T9CBBFTA5R5N)
+  * Genomic Data Science Capstone. [See certificate](https://www.coursera.org/account/accomplishments/certificate/2ATKP68VT3U7)
