@@ -73,7 +73,7 @@ Massive Online Open Courses
   * Practical Reinforcement Learning. [See certificate](https://www.coursera.org/account/accomplishments/certificate/QBTKY5DPRYBW)
 
 * Data Science Specialization. [See certificate](https://www.coursera.org/account/accomplishments/specialization/ZHU4E6SXGDED)
-  * Data Scientist's Toolbox. [See certificate]https://www.coursera.org/account/accomplishments/verify/ESFV8AWUD6)
+  * Data Scientist's Toolbox. [See certificate](https://www.coursera.org/account/accomplishments/verify/ESFV8AWUD6)
   * R Programming. [See certificate](https://www.coursera.org/account/accomplishments/verify/JSUY4BTY87)
   * Getting and Cleaning data. [See certificate](https://www.coursera.org/account/accomplishments/verify/AXZD3JQPRV)
   * Exploratory data analysis. [See certificate](https://www.coursera.org/account/accomplishments/verify/9UWWJ6WGRE72)
