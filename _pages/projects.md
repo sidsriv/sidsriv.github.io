@@ -38,3 +38,8 @@ initial weights based on Genetic Algorithms for fast optimization.
   * Objective: To extract fine-grained relations among entity mentions from wikipedia infobox data.
   * Individual Responsibility: Developed script to extract infobox data from article entries present in Wikipedia multistream XML dump. Developed script to scrape vital article list from wikipedia metadata page. Preprocessed relations and attributes present in infobox entries for person, organisation and location infobox types.
   * Tools used: Python 3.5, regex, beatifulsoup, pandas, xml. 
+
+Self Projects (with code)
+====
+
+* 
