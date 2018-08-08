@@ -20,6 +20,9 @@ sensitive and drug resistant L.donovani.
   * Accomplishment: Performed correlation and mutual information analysis on gene pairs to study pattern similarity in gene expression and further employed cluster algorithms. Normalized 22 gene expression samples from 6 different experiments available in NCBI GEO database.
   * Tools used: Python Scientific stack (Numpy, Pandas, Scikit-learn, Matplotlib), R and Rstudio (Bioconductor)
   
+![alt text](https://github.com/sidsriv/sidsriv.github.io/blob/master/images/The-procedure-of-obtaining-gene-expression-data-matrix-from-a-collection-of-raw.png "1")
+
+  
 * Hybrid evolutionary approach for Devanagari Handwritten numeral recognition using Convolutional Neural Network
   * Objective: To develop a novel approach for training Convolutional Neural Network using
 initial weights based on Genetic Algorithms for fast optimization.
