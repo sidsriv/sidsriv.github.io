@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Siddhant Srivastava"
 description              : &description "Final Year integrated postgraduate student at ABV-IIITM Gwalior"
