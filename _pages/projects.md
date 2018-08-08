@@ -30,19 +30,32 @@ initial weights based on Genetic Algorithms for fast optimization.
   using python.
   * Accomplishments: Achieved state-of-the-art accuracy of 96.83% on test data using our model and compared our results with standard classification algorithms like logistic regression, random forest and support vector machine.
   * Tools used: Python 3.5, Numpy, Matplotlib, Scikit-learn.
+![alt text](https://github.com/sidsriv/sidsriv.github.io/blob/master/images/decr.JPG "2")
+
+![alt text](https://github.com/sidsriv/sidsriv.github.io/blob/master/images/dn.JPG "3")
+
 
 * Self-Attention based BLSTM model for named entity recognition in Drug, Disease and Clinical data
   * Objective: To develop a novel Long short term memory (LSTM) model with multi-head attention to recognise named entities in Biomedical and Clinical data.
   * Individual Responsibility: Developed novel architechture consisting of multi-head attention from transformer network cascaded with Bi-LSTM and conditional Radom Fields (CRF). Used pre-trained word embeddings from PubMed data and tested model on NCBI Disease NER, i2b2-2010 Clinical NER and Drugbank+MedLine Drug NER Datasets.
   * Accomplishments: Achieved result better than state-of-the-art model on Disease dataset (precision score:84.08%) and Clinical dataset (precision:84.63%,recall:83.06%,F-score:83.83%).
   * Tools used: Python 3.5, Tensorflow, Numpy, Scikit-Learn.
+![alt text](https://github.com/sidsriv/sidsriv.github.io/blob/master/images/self-attention-blstm.png "5")
+
+![alt text](https://github.com/sidsriv/sidsriv.github.io/blob/master/images/transformer_lstm_cascade.png "6")
+  
 
 * Mining fine grain relations from Wikipedia Infoboxes
   * Objective: To extract fine-grained relations among entity mentions from wikipedia infobox data.
   * Individual Responsibility: Developed script to extract infobox data from article entries present in Wikipedia multistream XML dump. Developed script to scrape vital article list from wikipedia metadata page. Preprocessed relations and attributes present in infobox entries for person, organisation and location infobox types.
   * Tools used: Python 3.5, regex, beatifulsoup, pandas, xml. 
+  
+![alt text](https://github.com/sidsriv/sidsriv.github.io/blob/master/images/nfobox-of-Solapur-District.png "7")
 
-Self Projects (with code)
+![alt text](https://github.com/sidsriv/sidsriv.github.io/blob/master/images/The-infobox-data-for-the-Solapur-District-wikipage.png "8")
+
+
+Independant Projects (with code)
 ====
 
 * 
