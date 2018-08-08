@@ -54,11 +54,16 @@ Coursework as part of undergraduate and graduate studies
 
 Massive Online Open Courses
 ======
-* Machine Learning Specialization. > [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KF2PPB69JZF3)
-  * Machine Learning foundations: A case study. > [certificate](https://www.coursera.org/account/accomplishments/certificate/7GYJ74PBF4ZE)
-  * Machine Learning : Regression. > [certificate](https://www.coursera.org/account/accomplishments/verify/BLFMNA38RRSN)
-  * Machine Learning : Classification. > [certificate](https://www.coursera.org/account/accomplishments/certificate/ZGXNEMK578TG)
-  * Machine Learning : Clustering & Retrieval. > [certificate](https://www.coursera.org/account/accomplishments/certificate/QKMVBHDVZ5B9)
+* Machine Learning Specialization. 
+> [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KF2PPB69JZF3)
+  * Machine Learning foundations: A case study. 
+  > [certificate](https://www.coursera.org/account/accomplishments/certificate/7GYJ74PBF4ZE)
+  * Machine Learning : Regression. 
+  > [certificate](https://www.coursera.org/account/accomplishments/verify/BLFMNA38RRSN)
+  * Machine Learning : Classification. 
+  > [certificate](https://www.coursera.org/account/accomplishments/certificate/ZGXNEMK578TG)
+  * Machine Learning : Clustering & Retrieval. 
+  > [certificate](https://www.coursera.org/account/accomplishments/certificate/QKMVBHDVZ5B9)
 
 * Deep Learning Specialization. > [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UAU2HQLRJDWT)
   * Neural Networks and Deep Learning. > [certificate](https://www.coursera.org/account/accomplishments/certificate/TGPVEQJKJVGF)
