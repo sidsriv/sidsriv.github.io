@@ -45,7 +45,9 @@ initial weights based on Genetic Algorithms for fast optimization.
 
 
 
-Independant Projects (with code)
+Independent Projects (with code)
 ====
 
-* 
+* Finding the Suspect using Variational Autoencoder and Gaussian Process [**link**](https://github.com/sidsriv/Bayesian-methods-for-machine-learning/blob/master/week6-final_project/Coursera%20BMML%2C%20Final%20project.ipynb)
+  * This is the final project as part of the course "Bayesian Methods for machine learning"
+  * In this project I tried to implement an app for crating facial composite that will be able to construct desired faces without explicitly providing databases of templates. I applied Variational Autoencoders and Gaussian processes for this task.
