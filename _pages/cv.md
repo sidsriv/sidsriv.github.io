@@ -68,7 +68,8 @@ Test Scores
 ======
 * All India Senior Secondary Certificate Programme, 472 marks out of 500, 98.8 %ile of all test takers.
 * Graduate Aptitude Test for Engineer, All India Rank : 2509, 97.72 %ile of all test takers.
-* Graduate Record Examination, Quantitaive : 165/170, Verbal : 153/170.
+* GRE, Quantitaive : 165/170, Verbal : 153/170, AWA : 4.0/6.0 .
+* TOEFL, Reading : 27/30, Listening : 28/30, Speaking : 24/30, Writing : 29/30 .
 
 Languages
 ======
